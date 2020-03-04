@@ -1,0 +1,100 @@
+{
+  "id": "1668992",
+  "name": "footerGuide",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "12686748",
+      "name": "箭头",
+      "font_class": "icon_zuo",
+      "unicode": "e64a",
+      "unicode_decimal": 58954
+    },
+    {
+      "icon_id": "13273393",
+      "name": "箭头",
+      "font_class": "icon_zuo-copy",
+      "unicode": "e7eb",
+      "unicode_decimal": 59371
+    },
+    {
+      "icon_id": "6400264",
+      "name": "订单",
+      "font_class": "weibiaoti--",
+      "unicode": "e614",
+      "unicode_decimal": 58900
+    },
+    {
+      "icon_id": "1103347",
+      "name": "手机",
+      "font_class": "tel",
+      "unicode": "e641",
+      "unicode_decimal": 58945
+    },
+    {
+      "icon_id": "1319970",
+      "name": "人",
+      "font_class": "ren",
+      "unicode": "e604",
+      "unicode_decimal": 58884
+    },
+    {
+      "icon_id": "5663612",
+      "name": "商城",
+      "font_class": "shangcheng",
+      "unicode": "e62e",
+      "unicode_decimal": 58926
+    },
+    {
+      "icon_id": "7015508",
+      "name": "服务中心",
+      "font_class": "fuwuzhongxin",
+      "unicode": "e650",
+      "unicode_decimal": 58960
+    },
+    {
+      "icon_id": "9080955",
+      "name": "vip",
+      "font_class": "vip",
+      "unicode": "e672",
+      "unicode_decimal": 58994
+    },
+    {
+      "icon_id": "5726390",
+      "name": "选项",
+      "font_class": "xuanxiang",
+      "unicode": "e7ea",
+      "unicode_decimal": 59370
+    },
+    {
+      "icon_id": "338260",
+      "name": "外卖",
+      "font_class": "waimai",
+      "unicode": "e618",
+      "unicode_decimal": 58904
+    },
+    {
+      "icon_id": "765544",
+      "name": "订单",
+      "font_class": "shouye",
+      "unicode": "e626",
+      "unicode_decimal": 58918
+    },
+    {
+      "icon_id": "900144",
+      "name": "搜索",
+      "font_class": "sousuo",
+      "unicode": "e651",
+      "unicode_decimal": 58961
+    },
+    {
+      "icon_id": "9512636",
+      "name": "我的",
+      "font_class": "my",
+      "unicode": "e635",
+      "unicode_decimal": 58933
+    }
+  ]
+}
